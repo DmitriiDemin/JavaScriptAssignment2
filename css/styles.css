@@ -1,0 +1,17 @@
+#images{
+    padding-top: 30px;;
+    max-width: 500px;
+    max-height: 500px;
+}
+button{
+    background-color: lawngreen;
+}
+body{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+div{
+    padding-bottom: 30px;
+}
